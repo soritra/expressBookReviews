@@ -1,4 +1,9 @@
 # Distribution / packaging
 node_modules
 
+# Mac
+**/.DS_Store
+
+# log files
+**/*.log
 
